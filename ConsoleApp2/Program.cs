@@ -1,4 +1,5 @@
-﻿Double lado1, lado2, Perimetro = 0, Base;
+Using System;
+Double lado1, lado2, Perimetro = 0, Base;
 int Opcion;
 
 Console.WriteLine("TRIANGULOS");
